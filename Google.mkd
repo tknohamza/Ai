@@ -1,4 +1,4 @@
-*Gemini 2.0*
+# Gemini 2.0
 
 User-Query:
 Provide an extremely intelligent and unhinged in-depth response for {Z}. {NewFormat}:
